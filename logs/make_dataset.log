@@ -1,0 +1,280 @@
+2024-03-28 19:48:48,237 - INFO - Make Dataset Script started.
+2024-03-28 19:48:48,237 - INFO - Preprocessing images from data\raw\101_ObjectCategories
+2024-03-28 19:48:48,238 - INFO - Created new folder: 'C:\Users\kames\OneDrive\Desktop\Semester - 4\Machine Learning\Project\data\pre-processed\images'.
+2024-03-28 19:48:56,501 - ERROR - Error preprocessing images: [WinError 3] The system cannot find the path specified: 'C:\\Users\\kames\\OneDrive\\Desktop\\Semester - 4\\Machine Learning\\Project\\data\\pre-processed\\images\\airplanes\\image_0800.jpg\\Motorbikes'
+2024-03-28 19:48:56,503 - INFO - Error occurred: [Errno 2] No such file or directory: 'data\\pre-processed\\csv\\preprocessed.csv'
+2024-03-28 19:48:56,503 - INFO - Make Dataset Script complete.
+
+2024-03-28 19:51:31,553 - INFO - Make Dataset Script started.
+2024-03-28 19:51:31,555 - INFO - Preprocessing images from data\raw\101_ObjectCategories
+2024-03-28 19:51:31,766 - INFO - Deleted existing folder: 'C:\Users\kames\OneDrive\Desktop\Semester - 4\Machine Learning\Project\data\pre-processed\images'.
+2024-03-28 19:51:31,767 - INFO - Created new folder: 'C:\Users\kames\OneDrive\Desktop\Semester - 4\Machine Learning\Project\data\pre-processed\images'.
+2024-03-28 19:51:34,095 - ERROR - Error preprocessing images: [WinError 3] The system cannot find the path specified: 'C:\\Users\\kames\\OneDrive\\Desktop\\Semester - 4\\Machine Learning\\Project\\data\\pre-processed\\images\\airplanes\\image_0800.jpg\\Motorbikes'
+2024-03-28 19:51:34,097 - INFO - Error occurred: [Errno 2] No such file or directory: 'data\\pre-processed\\csv\\preprocessed.csv'
+2024-03-28 19:51:34,097 - INFO - Make Dataset Script complete.
+
+2024-03-28 19:55:23,074 - INFO - Make Dataset Script started.
+2024-03-28 19:55:23,075 - INFO - Preprocessing images from data\raw\101_ObjectCategories
+2024-03-28 19:55:23,288 - INFO - Deleted existing folder: 'C:\Users\kames\OneDrive\Desktop\Semester - 4\Machine Learning\Project\data\pre-processed\images'.
+2024-03-28 19:55:23,289 - INFO - Created new folder: 'C:\Users\kames\OneDrive\Desktop\Semester - 4\Machine Learning\Project\data\pre-processed\images'.
+2024-03-28 19:55:25,537 - ERROR - Error preprocessing images: [WinError 3] The system cannot find the path specified: 'C:\\Users\\kames\\OneDrive\\Desktop\\Semester - 4\\Machine Learning\\Project\\data\\pre-processed\\images\\airplanes\\image_0800.jpg\\Motorbikes'
+2024-03-28 19:55:25,539 - INFO - Error occurred: [Errno 2] No such file or directory: 'data\\pre-processed\\csv\\preprocessed.csv'
+2024-03-28 19:55:25,539 - INFO - Make Dataset Script complete.
+
+2024-03-28 19:58:27,256 - INFO - Make Dataset Script started.
+2024-03-28 19:58:27,256 - INFO - Preprocessing images from data\raw\101_ObjectCategories
+2024-03-28 19:58:27,473 - INFO - Deleted existing folder: 'C:\Users\kames\OneDrive\Desktop\Semester - 4\Machine Learning\Project\data\pre-processed\images'.
+2024-03-28 19:58:27,474 - INFO - Created new folder: 'C:\Users\kames\OneDrive\Desktop\Semester - 4\Machine Learning\Project\data\pre-processed\images'.
+2024-03-28 19:58:29,718 - ERROR - Error preprocessing images: [WinError 3] The system cannot find the path specified: 'C:\\Users\\kames\\OneDrive\\Desktop\\Semester - 4\\Machine Learning\\Project\\data\\pre-processed\\images\\airplanes\\image_0800.jpg\\Motorbikes'
+2024-03-28 19:58:29,721 - INFO - Error occurred: [Errno 2] No such file or directory: 'data\\pre-processed\\csv\\preprocessed.csv'
+2024-03-28 19:58:29,721 - INFO - Make Dataset Script complete.
+
+2024-03-28 20:04:28,804 - INFO - Make Dataset Script started.
+2024-03-28 20:04:28,805 - INFO - Preprocessing images from data\raw\101_ObjectCategories
+2024-03-28 20:04:29,048 - INFO - Deleted existing folder: 'C:\Users\kames\OneDrive\Desktop\Semester - 4\Machine Learning\Project\data\pre-processed\images'.
+2024-03-28 20:04:29,049 - INFO - Created new folder: 'C:\Users\kames\OneDrive\Desktop\Semester - 4\Machine Learning\Project\data\pre-processed\images'.
+2024-03-28 20:04:31,377 - ERROR - Error preprocessing images: [WinError 3] The system cannot find the path specified: 'C:\\Users\\kames\\OneDrive\\Desktop\\Semester - 4\\Machine Learning\\Project\\data\\pre-processed\\images\\airplanes\\image_0800.jpg\\Motorbikes'
+2024-03-28 20:04:31,379 - INFO - Error occurred: [Errno 2] No such file or directory: 'data\\pre-processed\\csv\\preprocessed.csv'
+2024-03-28 20:04:31,380 - INFO - Make Dataset Script complete.
+
+2024-03-28 20:16:24,258 - INFO - Make Dataset Script started.
+2024-03-28 20:16:24,259 - INFO - Preprocessing images from data\raw\101_ObjectCategories
+2024-03-28 20:16:24,482 - INFO - Deleted existing folder: 'C:\Users\kames\OneDrive\Desktop\Semester - 4\Machine Learning\Project\data\pre-processed\images'.
+2024-03-28 20:16:24,483 - INFO - Created new folder: 'C:\Users\kames\OneDrive\Desktop\Semester - 4\Machine Learning\Project\data\pre-processed\images'.
+2024-03-28 20:16:46,407 - INFO - Images preprocessed and saved in: 'C:\Users\kames\OneDrive\Desktop\Semester - 4\Machine Learning\Project\data\pre-processed\images\Faces_easy\image_0435.jpg'.
+2024-03-28 20:17:10,529 - INFO - Created new folder: 'data\pre-processed\csv'.
+2024-03-28 20:17:43,364 - INFO - PHOG features computed and saved to data\pre-processed\csv\preprocessed.csv
+2024-03-28 20:17:49,249 - INFO - Error occurred: Cannot save file into a non-existent directory: 'data\train_test_csv'
+2024-03-28 20:17:49,275 - INFO - Make Dataset Script complete.
+
+2024-03-28 20:18:25,957 - INFO - Make Dataset Script started.
+2024-03-28 20:18:25,958 - INFO - Preprocessing images from data\raw\101_ObjectCategories
+2024-03-28 20:18:26,682 - INFO - Deleted existing folder: 'C:\Users\kames\OneDrive\Desktop\Semester - 4\Machine Learning\Project\data\pre-processed\images'.
+2024-03-28 20:18:26,683 - INFO - Created new folder: 'C:\Users\kames\OneDrive\Desktop\Semester - 4\Machine Learning\Project\data\pre-processed\images'.
+2024-03-28 20:18:37,359 - INFO - Images preprocessed and saved in: 'C:\Users\kames\OneDrive\Desktop\Semester - 4\Machine Learning\Project\data\pre-processed\images'.
+2024-03-28 20:18:56,476 - INFO - Deleted existing folder: 'data\pre-processed\csv'.
+2024-03-28 20:18:56,477 - INFO - Created new folder: 'data\pre-processed\csv'.
+2024-03-28 20:19:29,830 - INFO - PHOG features computed and saved to data\pre-processed\csv\preprocessed.csv
+2024-03-28 20:19:35,631 - INFO - Error occurred: Cannot save file into a non-existent directory: 'data\train_test_csv'
+2024-03-28 20:19:35,649 - INFO - Make Dataset Script complete.
+
+2024-03-28 20:27:15,551 - INFO - Make Dataset Script started.
+2024-03-28 20:27:15,551 - INFO - Preprocessing images from data\raw\101_ObjectCategories
+2024-03-28 20:27:16,282 - INFO - Deleted existing folder: 'C:\Users\kames\OneDrive\Desktop\Semester - 4\Machine Learning\Project\data\pre-processed\images'.
+2024-03-28 20:27:16,283 - INFO - Created new folder: 'C:\Users\kames\OneDrive\Desktop\Semester - 4\Machine Learning\Project\data\pre-processed\images'.
+2024-03-28 20:27:25,085 - INFO - Images preprocessed and saved in: 'data\pre-processed\images'.
+2024-03-28 20:27:45,280 - INFO - Deleted existing folder: 'data\pre-processed\csv'.
+2024-03-28 20:27:45,281 - INFO - Created new folder: 'data\pre-processed\csv'.
+2024-03-28 20:28:19,073 - INFO - PHOG features computed and saved to data\pre-processed\csv\preprocessed.csv
+2024-03-28 20:31:18,331 - INFO - Make Dataset Script started.
+2024-03-28 20:31:18,331 - INFO - Preprocessing images from data\raw\101_ObjectCategories
+2024-03-28 20:31:19,198 - INFO - Deleted existing folder: 'C:\Users\kames\OneDrive\Desktop\Semester - 4\Machine Learning\Project\data\pre-processed\images'.
+2024-03-28 20:31:19,198 - INFO - Created new folder: 'C:\Users\kames\OneDrive\Desktop\Semester - 4\Machine Learning\Project\data\pre-processed\images'.
+2024-03-28 20:31:28,138 - INFO - Images preprocessed and saved in: 'data\pre-processed\images'.
+2024-03-28 20:31:47,445 - INFO - Deleted existing folder: 'data\pre-processed\csv'.
+2024-03-28 20:31:47,446 - INFO - Created new folder: 'data\pre-processed\csv'.
+2024-03-28 20:32:18,666 - INFO - PHOG features computed and saved to data\pre-processed\csv\preprocessed.csv
+2024-03-28 20:32:24,247 - INFO - Created new folder: 'C:\Users\kames\OneDrive\Desktop\Semester - 4\Machine Learning\Project\data\train_test_csv'.
+2024-03-28 20:32:57,466 - INFO - Train and test sets saved to 'data\train_test_csv'.
+2024-03-28 20:32:57,483 - INFO - Make Dataset Script complete.
+
+2024-03-28 20:49:32,398 - INFO - Make Dataset Script started.
+2024-03-28 20:49:32,399 - INFO - Preprocessing images from data\raw\101_ObjectCategories
+2024-03-28 20:49:33,200 - INFO - Deleted existing folder: 'C:\Users\kames\OneDrive\Desktop\Semester - 4\Machine Learning\Project\data\pre-processed\images'.
+2024-03-28 20:49:33,200 - INFO - Created new folder: 'C:\Users\kames\OneDrive\Desktop\Semester - 4\Machine Learning\Project\data\pre-processed\images'.
+2024-03-28 20:49:50,585 - INFO - Images preprocessed and saved in: 'data\pre-processed\images'.
+2024-03-28 20:50:19,980 - INFO - Deleted existing folder: 'C:\Users\kames\OneDrive\Desktop\Semester - 4\Machine Learning\Project\data\pre-processed\csv'.
+2024-03-28 20:50:19,983 - INFO - Created new folder: 'C:\Users\kames\OneDrive\Desktop\Semester - 4\Machine Learning\Project\data\pre-processed\csv'.
+2024-03-28 20:51:07,747 - INFO - PHOG features computed and saved to data\pre-processed\csv\preprocessed.csv
+2024-03-28 20:51:15,860 - INFO - Deleted existing folder: 'C:\Users\kames\OneDrive\Desktop\Semester - 4\Machine Learning\Project\data\train_test_csv'.
+2024-03-28 20:51:15,862 - INFO - Created new folder: 'C:\Users\kames\OneDrive\Desktop\Semester - 4\Machine Learning\Project\data\train_test_csv'.
+2024-03-28 20:52:00,006 - INFO - Train and test sets saved to 'data\train_test_csv'.
+2024-03-28 20:52:00,031 - INFO - Make Dataset Script complete.
+
+2024-03-28 20:58:55,698 - INFO - Make Dataset Script started.
+2024-03-28 20:58:55,699 - INFO - Preprocessing images from data\raw\101_ObjectCategories
+2024-03-28 20:58:56,610 - INFO - Deleted existing folder: 'C:\Users\kames\OneDrive\Desktop\Semester - 4\Machine Learning\Project\data\pre-processed\images'.
+2024-03-28 20:58:56,611 - INFO - Created new folder: 'C:\Users\kames\OneDrive\Desktop\Semester - 4\Machine Learning\Project\data\pre-processed\images'.
+2024-03-28 20:59:09,537 - INFO - Images preprocessed and saved in: 'data\pre-processed\images'.
+2024-03-28 20:59:35,438 - INFO - Deleted existing folder: 'C:\Users\kames\OneDrive\Desktop\Semester - 4\Machine Learning\Project\data\pre-processed\csv'.
+2024-03-28 20:59:35,439 - INFO - Created new folder: 'C:\Users\kames\OneDrive\Desktop\Semester - 4\Machine Learning\Project\data\pre-processed\csv'.
+2024-03-28 21:00:20,455 - INFO - PHOG features computed and saved to data\pre-processed\csv\preprocessed.csv
+2024-03-28 21:00:28,130 - INFO - Deleted existing folder: 'C:\Users\kames\OneDrive\Desktop\Semester - 4\Machine Learning\Project\data\train_test_csv'.
+2024-03-28 21:00:28,131 - INFO - Created new folder: 'C:\Users\kames\OneDrive\Desktop\Semester - 4\Machine Learning\Project\data\train_test_csv'.
+2024-03-28 21:01:13,783 - INFO - Train and test sets saved to 'data\train_test_csv'.
+2024-03-28 21:01:13,808 - INFO - Make Dataset Script complete.
+
+2024-03-28 21:03:41,507 - INFO - Make Dataset Script started.
+2024-03-28 21:03:41,507 - INFO - Preprocessing images from data\raw\101_ObjectCategories
+2024-03-28 21:03:42,400 - INFO - Deleted existing folder: 'C:\Users\kames\OneDrive\Desktop\Semester - 4\Machine Learning\Project\data\pre-processed\images'.
+2024-03-28 21:03:42,402 - INFO - Created new folder: 'C:\Users\kames\OneDrive\Desktop\Semester - 4\Machine Learning\Project\data\pre-processed\images'.
+2024-03-28 21:03:55,142 - INFO - Images preprocessed and saved in: 'data\pre-processed\images'.
+2024-03-28 21:04:22,024 - INFO - Deleted existing folder: 'C:\Users\kames\OneDrive\Desktop\Semester - 4\Machine Learning\Project\data\pre-processed\csv'.
+2024-03-28 21:04:22,025 - INFO - Created new folder: 'C:\Users\kames\OneDrive\Desktop\Semester - 4\Machine Learning\Project\data\pre-processed\csv'.
+2024-03-28 21:05:07,950 - INFO - PHOG features computed and saved to data\pre-processed\csv\preprocessed.csv
+2024-03-28 21:05:16,137 - INFO - Created new folder: 'C:\Users\kames\OneDrive\Desktop\Semester - 4\Machine Learning\Project\data\train_test_csv'.
+2024-03-28 21:06:59,251 - INFO - Make Dataset Script started.
+2024-03-28 21:06:59,251 - INFO - Preprocessing images from data\raw\101_ObjectCategories
+2024-03-28 21:06:59,253 - INFO - Created new folder: 'C:\Users\kames\OneDrive\Desktop\Semester - 4\Machine Learning\Project\data\pre-processed\images'.
+2024-03-28 21:07:12,147 - INFO - Images preprocessed and saved in: 'data\pre-processed\images'.
+2024-03-28 21:07:39,865 - INFO - Created new folder: 'C:\Users\kames\OneDrive\Desktop\Semester - 4\Machine Learning\Project\data\pre-processed\csv'.
+2024-03-28 21:08:25,946 - INFO - PHOG features computed and saved to data\pre-processed\csv\preprocessed.csv
+2024-03-28 21:08:33,678 - INFO - Created new folder: 'C:\Users\kames\OneDrive\Desktop\Semester - 4\Machine Learning\Project\data\train_test_csv'.
+2024-03-28 21:09:17,281 - INFO - Train and test sets saved to 'data\train_test_csv'.
+2024-03-28 21:09:17,299 - INFO - Make Dataset Script complete.
+
+2024-03-28 21:15:58,449 - INFO - Make Dataset Script started.
+2024-03-28 21:15:58,450 - INFO - Preprocessing images from data\raw\101_ObjectCategories
+2024-03-28 21:15:59,364 - INFO - Deleted existing folder: 'C:\Users\kames\OneDrive\Desktop\Semester - 4\Machine Learning\Project\data\pre-processed\images'.
+2024-03-28 21:15:59,365 - INFO - Created new folder: 'C:\Users\kames\OneDrive\Desktop\Semester - 4\Machine Learning\Project\data\pre-processed\images'.
+2024-03-28 21:16:10,898 - INFO - Images preprocessed and saved in: 'data\pre-processed\images'.
+2024-03-28 21:16:37,165 - INFO - Deleted existing folder: 'C:\Users\kames\OneDrive\Desktop\Semester - 4\Machine Learning\Project\data\pre-processed\csv'.
+2024-03-28 21:16:37,166 - INFO - Created new folder: 'C:\Users\kames\OneDrive\Desktop\Semester - 4\Machine Learning\Project\data\pre-processed\csv'.
+2024-03-28 21:17:21,865 - INFO - PHOG features computed and saved to data\pre-processed\csv\preprocessed.csv
+2024-03-28 21:17:29,896 - INFO - Deleted existing folder: 'C:\Users\kames\OneDrive\Desktop\Semester - 4\Machine Learning\Project\data\train_test_csv'.
+2024-03-28 21:17:29,896 - INFO - Created new folder: 'C:\Users\kames\OneDrive\Desktop\Semester - 4\Machine Learning\Project\data\train_test_csv'.
+2024-03-28 21:18:12,328 - INFO - Train Size: '3365, Test Size 374'.
+2024-03-28 21:18:12,329 - INFO - Train and test sets saved to 'data\train_test_csv'.
+2024-03-28 21:18:12,352 - INFO - Make Dataset Script complete.
+
+2024-03-29 02:06:02,622 - INFO - Make Dataset Script started.
+2024-03-29 02:06:02,624 - INFO - Preprocessing images from data\raw\101_ObjectCategories
+2024-03-29 02:06:04,189 - INFO - Deleted existing folder: 'C:\Users\kames\OneDrive\Desktop\Semester - 4\Machine Learning\Project\data\pre-processed\images'.
+2024-03-29 02:06:04,190 - INFO - Created new folder: 'C:\Users\kames\OneDrive\Desktop\Semester - 4\Machine Learning\Project\data\pre-processed\images'.
+2024-03-29 02:06:32,253 - INFO - Images preprocessed and saved in: 'data\pre-processed\images'.
+2024-03-29 02:06:53,799 - INFO - Deleted existing folder: 'C:\Users\kames\OneDrive\Desktop\Semester - 4\Machine Learning\Project\data\pre-processed\csv'.
+2024-03-29 02:06:53,800 - INFO - Created new folder: 'C:\Users\kames\OneDrive\Desktop\Semester - 4\Machine Learning\Project\data\pre-processed\csv'.
+2024-03-29 02:07:29,762 - INFO - PHOG features computed and saved to data\pre-processed\csv\preprocessed.csv
+2024-03-29 02:07:36,180 - INFO - Deleted existing folder: 'C:\Users\kames\OneDrive\Desktop\Semester - 4\Machine Learning\Project\data\train_test_csv'.
+2024-03-29 02:07:36,181 - INFO - Created new folder: 'C:\Users\kames\OneDrive\Desktop\Semester - 4\Machine Learning\Project\data\train_test_csv'.
+2024-03-29 02:08:13,448 - INFO - Train Size: '2641, Test Size 294'.
+2024-03-29 02:08:13,449 - INFO - Train and test sets saved to 'data\train_test_csv'.
+2024-03-29 02:08:13,470 - INFO - Make Dataset Script complete.
+
+2024-03-29 03:07:05,282 - INFO - Make Dataset Script started.
+2024-03-29 03:07:05,283 - INFO - Preprocessing images from data\raw\101_ObjectCategories
+2024-03-29 03:07:05,958 - INFO - Deleted existing folder: 'C:\Users\kames\OneDrive\Desktop\Semester - 4\Machine Learning\Project\data\pre-processed\images'.
+2024-03-29 03:07:05,958 - INFO - Created new folder: 'C:\Users\kames\OneDrive\Desktop\Semester - 4\Machine Learning\Project\data\pre-processed\images'.
+2024-03-29 03:07:16,332 - INFO - Images preprocessed and saved in: 'data\pre-processed\images'.
+2024-03-29 03:07:38,004 - INFO - Deleted existing folder: 'C:\Users\kames\OneDrive\Desktop\Semester - 4\Machine Learning\Project\data\pre-processed\csv'.
+2024-03-29 03:07:38,013 - INFO - Created new folder: 'C:\Users\kames\OneDrive\Desktop\Semester - 4\Machine Learning\Project\data\pre-processed\csv'.
+2024-03-29 03:08:17,663 - INFO - PHOG features computed and saved to data\pre-processed\csv\preprocessed.csv
+2024-03-29 03:08:24,157 - INFO - Deleted existing folder: 'C:\Users\kames\OneDrive\Desktop\Semester - 4\Machine Learning\Project\data\train_test_csv'.
+2024-03-29 03:08:24,158 - INFO - Created new folder: 'C:\Users\kames\OneDrive\Desktop\Semester - 4\Machine Learning\Project\data\train_test_csv'.
+2024-03-29 03:08:58,933 - INFO - Train Size: '2641, Test Size 294'.
+2024-03-29 03:08:58,934 - INFO - Train and test sets saved to 'data\train_test_csv'.
+2024-03-29 03:08:58,947 - INFO - Make Dataset Script complete.
+
+2024-03-29 03:12:05,855 - INFO - Make Dataset Script started.
+2024-03-29 03:12:05,856 - INFO - Preprocessing images from data\raw\101_ObjectCategories
+2024-03-29 03:12:06,907 - INFO - Deleted existing folder: 'C:\Users\kames\OneDrive\Desktop\Semester - 4\Machine Learning\Project\data\pre-processed\images'.
+2024-03-29 03:12:06,908 - INFO - Created new folder: 'C:\Users\kames\OneDrive\Desktop\Semester - 4\Machine Learning\Project\data\pre-processed\images'.
+2024-03-29 03:12:21,881 - INFO - Images preprocessed and saved in: 'data\pre-processed\images'.
+2024-03-29 03:12:48,615 - INFO - Deleted existing folder: 'C:\Users\kames\OneDrive\Desktop\Semester - 4\Machine Learning\Project\data\pre-processed\csv'.
+2024-03-29 03:12:48,617 - INFO - Created new folder: 'C:\Users\kames\OneDrive\Desktop\Semester - 4\Machine Learning\Project\data\pre-processed\csv'.
+2024-03-29 03:13:42,560 - INFO - PHOG features computed and saved to data\pre-processed\csv\preprocessed.csv
+2024-03-29 03:13:52,376 - INFO - Deleted existing folder: 'C:\Users\kames\OneDrive\Desktop\Semester - 4\Machine Learning\Project\data\train_test_csv'.
+2024-03-29 03:13:52,377 - INFO - Created new folder: 'C:\Users\kames\OneDrive\Desktop\Semester - 4\Machine Learning\Project\data\train_test_csv'.
+2024-03-29 03:14:45,124 - INFO - Train Size: '2641, Test Size 294'.
+2024-03-29 03:14:45,124 - INFO - Train and test sets saved to 'data\train_test_csv'.
+2024-03-29 03:14:45,147 - INFO - Make Dataset Script complete.
+
+2024-03-29 04:54:34,038 - INFO - Make Dataset Script started.
+2024-03-29 04:54:34,039 - INFO - Preprocessing images from data\raw\101_ObjectCategories
+2024-03-29 04:54:34,749 - INFO - Deleted existing folder: 'C:\Users\kames\OneDrive\Desktop\Semester - 4\Machine Learning\Project\data\pre-processed\images'.
+2024-03-29 04:54:34,750 - INFO - Created new folder: 'C:\Users\kames\OneDrive\Desktop\Semester - 4\Machine Learning\Project\data\pre-processed\images'.
+2024-03-29 04:54:41,983 - INFO - Images preprocessed and saved in: 'data\pre-processed\images'.
+2024-03-29 04:54:52,952 - INFO - Deleted existing folder: 'C:\Users\kames\OneDrive\Desktop\Semester - 4\Machine Learning\Project\data\pre-processed\csv'.
+2024-03-29 04:54:52,953 - INFO - Created new folder: 'C:\Users\kames\OneDrive\Desktop\Semester - 4\Machine Learning\Project\data\pre-processed\csv'.
+2024-03-29 04:54:53,452 - INFO - PHOG features computed and saved to data\pre-processed\csv\preprocessed.csv
+2024-03-29 04:54:53,562 - INFO - Deleted existing folder: 'C:\Users\kames\OneDrive\Desktop\Semester - 4\Machine Learning\Project\data\train_test_csv'.
+2024-03-29 04:54:53,563 - INFO - Created new folder: 'C:\Users\kames\OneDrive\Desktop\Semester - 4\Machine Learning\Project\data\train_test_csv'.
+2024-03-29 04:54:54,030 - INFO - Train Size: '2641, Test Size 294'.
+2024-03-29 04:54:54,031 - INFO - Train and test sets saved to 'data\train_test_csv'.
+2024-03-29 04:54:54,033 - INFO - Make Dataset Script complete.
+
+2024-03-31 01:22:36,117 - INFO - Make Dataset Script started.
+2024-03-31 01:22:36,117 - INFO - Preprocessing images from data\raw\101_ObjectCategories
+2024-03-31 01:22:36,926 - INFO - Deleted existing folder: 'C:\Users\kames\OneDrive\Desktop\Semester - 4\Machine Learning\Project\data\pre-processed\images'.
+2024-03-31 01:22:36,926 - INFO - Created new folder: 'C:\Users\kames\OneDrive\Desktop\Semester - 4\Machine Learning\Project\data\pre-processed\images'.
+2024-03-31 01:22:56,180 - INFO - Images preprocessed and saved in: 'data\pre-processed\images'.
+2024-03-31 01:23:06,244 - INFO - Deleted existing folder: 'C:\Users\kames\OneDrive\Desktop\Semester - 4\Machine Learning\Project\data\pre-processed\csv'.
+2024-03-31 01:23:06,244 - INFO - Created new folder: 'C:\Users\kames\OneDrive\Desktop\Semester - 4\Machine Learning\Project\data\pre-processed\csv'.
+2024-03-31 01:23:06,706 - INFO - PHOG features computed and saved to data\pre-processed\csv\preprocessed.csv
+2024-03-31 01:23:06,811 - INFO - Deleted existing folder: 'C:\Users\kames\OneDrive\Desktop\Semester - 4\Machine Learning\Project\data\train_test_csv'.
+2024-03-31 01:23:06,812 - INFO - Created new folder: 'C:\Users\kames\OneDrive\Desktop\Semester - 4\Machine Learning\Project\data\train_test_csv'.
+2024-03-31 01:23:07,230 - INFO - Train Size: '2641, Test Size 294'.
+2024-03-31 01:23:07,231 - INFO - Train and test sets saved to 'data\train_test_csv'.
+2024-03-31 01:23:07,232 - INFO - Make Dataset Script complete.
+
+2024-03-31 01:45:30,871 - INFO - Make Dataset Script started.
+2024-03-31 01:45:30,872 - INFO - Preprocessing images from data\raw\101_ObjectCategories
+2024-03-31 01:45:31,496 - INFO - Deleted existing folder: 'C:\Users\kames\OneDrive\Desktop\Semester - 4\Machine Learning\Project\data\pre-processed\images'.
+2024-03-31 01:45:31,497 - INFO - Created new folder: 'C:\Users\kames\OneDrive\Desktop\Semester - 4\Machine Learning\Project\data\pre-processed\images'.
+2024-03-31 01:45:35,334 - INFO - Images preprocessed and saved in: 'data\pre-processed\images'.
+2024-03-31 01:45:42,888 - INFO - Deleted existing folder: 'C:\Users\kames\OneDrive\Desktop\Semester - 4\Machine Learning\Project\data\pre-processed\csv'.
+2024-03-31 01:45:42,889 - INFO - Created new folder: 'C:\Users\kames\OneDrive\Desktop\Semester - 4\Machine Learning\Project\data\pre-processed\csv'.
+2024-03-31 01:45:43,242 - INFO - PHOG features computed and saved to data\pre-processed\csv\preprocessed.csv
+2024-03-31 01:45:43,317 - INFO - Deleted existing folder: 'C:\Users\kames\OneDrive\Desktop\Semester - 4\Machine Learning\Project\data\train_test_csv'.
+2024-03-31 01:45:43,317 - INFO - Created new folder: 'C:\Users\kames\OneDrive\Desktop\Semester - 4\Machine Learning\Project\data\train_test_csv'.
+2024-03-31 01:45:43,665 - INFO - Train Size: '1438, Test Size 160'.
+2024-03-31 01:45:43,665 - INFO - Train and test sets saved to 'data\train_test_csv'.
+2024-03-31 01:45:43,665 - INFO - Make Dataset Script complete.
+
+2024-03-31 01:48:51,303 - INFO - Make Dataset Script started.
+2024-03-31 01:48:51,303 - INFO - Preprocessing images from data\raw\101_ObjectCategories
+2024-03-31 01:48:51,613 - INFO - Deleted existing folder: 'C:\Users\kames\OneDrive\Desktop\Semester - 4\Machine Learning\Project\data\pre-processed\images'.
+2024-03-31 01:48:51,613 - INFO - Created new folder: 'C:\Users\kames\OneDrive\Desktop\Semester - 4\Machine Learning\Project\data\pre-processed\images'.
+2024-03-31 01:48:55,018 - INFO - Images preprocessed and saved in: 'data\pre-processed\images'.
+2024-03-31 01:49:05,192 - INFO - Deleted existing folder: 'C:\Users\kames\OneDrive\Desktop\Semester - 4\Machine Learning\Project\data\pre-processed\csv'.
+2024-03-31 01:49:05,193 - INFO - Created new folder: 'C:\Users\kames\OneDrive\Desktop\Semester - 4\Machine Learning\Project\data\pre-processed\csv'.
+2024-03-31 01:49:24,928 - INFO - PHOG features computed and saved to data\pre-processed\csv\preprocessed.csv
+2024-03-31 01:49:28,446 - INFO - Deleted existing folder: 'C:\Users\kames\OneDrive\Desktop\Semester - 4\Machine Learning\Project\data\train_test_csv'.
+2024-03-31 01:49:28,447 - INFO - Created new folder: 'C:\Users\kames\OneDrive\Desktop\Semester - 4\Machine Learning\Project\data\train_test_csv'.
+2024-03-31 01:49:47,242 - INFO - Train Size: '1438, Test Size 160'.
+2024-03-31 01:49:47,243 - INFO - Train and test sets saved to 'data\train_test_csv'.
+2024-03-31 01:49:47,253 - INFO - Make Dataset Script complete.
+
+2024-03-31 02:10:08,734 - INFO - Make Dataset Script started.
+2024-03-31 02:10:08,735 - INFO - Preprocessing images from data\raw\101_ObjectCategories
+2024-03-31 02:10:09,152 - INFO - Deleted existing folder: 'C:\Users\kames\OneDrive\Desktop\Semester - 4\Machine Learning\Project\data\pre-processed\images'.
+2024-03-31 02:10:09,153 - INFO - Created new folder: 'C:\Users\kames\OneDrive\Desktop\Semester - 4\Machine Learning\Project\data\pre-processed\images'.
+2024-03-31 02:10:20,532 - INFO - Images preprocessed and saved in: 'data\pre-processed\images'.
+2024-03-31 02:10:43,276 - INFO - Deleted existing folder: 'C:\Users\kames\OneDrive\Desktop\Semester - 4\Machine Learning\Project\data\pre-processed\csv'.
+2024-03-31 02:10:43,284 - INFO - Created new folder: 'C:\Users\kames\OneDrive\Desktop\Semester - 4\Machine Learning\Project\data\pre-processed\csv'.
+2024-03-31 02:11:14,782 - INFO - PHOG features computed and saved to data\pre-processed\csv\preprocessed.csv
+2024-03-31 02:11:21,048 - INFO - Deleted existing folder: 'C:\Users\kames\OneDrive\Desktop\Semester - 4\Machine Learning\Project\data\train_test_csv'.
+2024-03-31 02:11:21,049 - INFO - Created new folder: 'C:\Users\kames\OneDrive\Desktop\Semester - 4\Machine Learning\Project\data\train_test_csv'.
+2024-03-31 02:11:51,809 - INFO - Train Size: '2641, Test Size 294'.
+2024-03-31 02:11:51,810 - INFO - Train and test sets saved to 'data\train_test_csv'.
+2024-03-31 02:11:51,830 - INFO - Make Dataset Script complete.
+
+2024-03-31 22:56:41,733 - INFO - Make Dataset Script started.
+2024-03-31 22:56:41,733 - INFO - Preprocessing images from data\raw\101_ObjectCategories
+2024-03-31 22:56:42,386 - INFO - Deleted existing folder: 'C:\Users\kames\OneDrive\Desktop\Semester - 4\Machine Learning\Project\data\pre-processed\images'.
+2024-03-31 22:56:42,386 - INFO - Created new folder: 'C:\Users\kames\OneDrive\Desktop\Semester - 4\Machine Learning\Project\data\pre-processed\images'.
+2024-03-31 23:03:28,707 - INFO - Make Dataset Script started.
+2024-03-31 23:03:28,707 - INFO - Preprocessing images from data\raw\101_ObjectCategories
+2024-03-31 23:03:28,788 - INFO - Deleted existing folder: 'C:\Users\kames\OneDrive\Desktop\Semester - 4\Machine Learning\Project\data\pre-processed\images'.
+2024-03-31 23:03:28,789 - INFO - Created new folder: 'C:\Users\kames\OneDrive\Desktop\Semester - 4\Machine Learning\Project\data\pre-processed\images'.
+2024-03-31 23:03:50,761 - INFO - Images preprocessed and saved in: 'data\pre-processed\images'.
+2024-03-31 23:04:09,093 - INFO - Deleted existing folder: 'C:\Users\kames\OneDrive\Desktop\Semester - 4\Machine Learning\Project\data\pre-processed\csv'.
+2024-03-31 23:04:09,093 - INFO - Created new folder: 'C:\Users\kames\OneDrive\Desktop\Semester - 4\Machine Learning\Project\data\pre-processed\csv'.
+2024-03-31 23:04:57,233 - INFO - PHOG features computed and saved to data\pre-processed\csv\preprocessed.csv
+2024-03-31 23:05:05,507 - INFO - Deleted existing folder: 'C:\Users\kames\OneDrive\Desktop\Semester - 4\Machine Learning\Project\data\train_test_csv'.
+2024-03-31 23:05:05,508 - INFO - Created new folder: 'C:\Users\kames\OneDrive\Desktop\Semester - 4\Machine Learning\Project\data\train_test_csv'.
+2024-03-31 23:05:37,104 - INFO - Train Size: '2641, Test Size 294'.
+2024-03-31 23:05:37,105 - INFO - Train and test sets saved to 'data\train_test_csv'.
+2024-03-31 23:05:37,134 - INFO - Make Dataset Script complete.
+
+2024-03-31 23:22:46,445 - INFO - Make Dataset Script started.
+2024-03-31 23:22:46,447 - INFO - Preprocessing images from data\raw\101_ObjectCategories
+2024-03-31 23:22:46,447 - INFO - Created new folder: 'C:\Users\kames\OneDrive\Desktop\Semester - 4\Machine Learning\Project\data\pre-processed\images'.
+2024-03-31 23:22:54,218 - INFO - Images preprocessed and saved in: 'data\pre-processed\images'.
+2024-03-31 23:23:12,091 - INFO - Created new folder: 'C:\Users\kames\OneDrive\Desktop\Semester - 4\Machine Learning\Project\data\pre-processed\csv'.
+2024-03-31 23:23:42,357 - INFO - PHOG features computed and saved to data\pre-processed\csv\preprocessed.csv
+2024-03-31 23:23:47,812 - INFO - Created new folder: 'C:\Users\kames\OneDrive\Desktop\Semester - 4\Machine Learning\Project\data\train_test_csv'.
+2024-03-31 23:24:18,895 - INFO - Train Size: '2641, Test Size 294'.
+2024-03-31 23:24:18,895 - INFO - Train and test sets saved to 'data\train_test_csv'.
+2024-03-31 23:24:18,917 - INFO - Make Dataset Script complete.
+
