@@ -96,7 +96,6 @@ python make_dataset.py
 |   |—— split_dataset.py
 |—— .gitignore
 |—— make_dataset.py
-|—— train_model.py
 
 ## Code Details
 
