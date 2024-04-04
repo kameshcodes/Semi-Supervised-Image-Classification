@@ -33,8 +33,6 @@
 
     ```
 
-    Replace `<project_directory>` with the name of the directory where the repository was cloned.
-
 3. **Create a Virtual Environment**:
 
     ```bash
