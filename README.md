@@ -21,7 +21,7 @@
 1. **Clone the Repository**:
 
     ```bash
-    git clone <repository_url>
+    git clone https://github.com/kameshcodes/Semi-Supervised-Image-Classification.git
     ```
 
 2. **Navigate to the Project Directory**:
@@ -29,7 +29,8 @@
     After cloning the repository, you'll need to access the local folder created on your computer. To do so, execute the following command in your terminal:
 
     ```bash
-    cd <project_directory>
+    cd Semi-Supervised-Image-Classification
+
     ```
 
     Replace `<project_directory>` with the name of the directory where the repository was cloned.
