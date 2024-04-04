@@ -79,7 +79,7 @@ python make_dataset.py
 
 ### Directory Hierarchy
 
----
+```bash
 |—— artifacts
 |—— data
 |   |—— preprocessed
@@ -95,6 +95,7 @@ python make_dataset.py
 |   |—— split_dataset.py
 |—— .gitignore
 |—— make_dataset.py
+```
 
 ## Code Details
 
