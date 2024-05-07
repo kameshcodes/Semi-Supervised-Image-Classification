@@ -3,7 +3,11 @@ import os
 import glob
 import shutil
 import logging as log
-from Scripts.hog import make_phog_features_csv
+
+#################################################################################################
+from Scripts.cnn import make_cnn_features_csv
+#from Scripts.hog import make_hog_features_csv
+################################################################################################
 from Scripts.utils import create_new_output_folder
      
 def preprocess_image(image_path, output_path, size=(128, 128)):
@@ -65,7 +69,12 @@ def make_csv_from_folder(input_folder, output_image_path, output_csv_path, num_c
 
         log.info(f"Images preprocessed and saved in: '{output_image_path}'.")
         
-        make_phog_features_csv(output_image_path, output_csv_path, normalize, bins, cell_size, block_size)
+        ###########################################################################################################################
+        #make_hog_features_csv(output_image_path, output_csv_path, normalize, bins, cell_size, block_size)
+        make_cnn_features_csv(output_image_path, output_csv_path)
+        ###########################################################################################################################
+        
+        
     except Exception as e:
         log.error(f"Error preprocessing images: {e}")
         

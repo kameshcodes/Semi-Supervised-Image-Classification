@@ -18,11 +18,14 @@ def split_csv(input_csv_path, output_csv_path, test_size, random_state=2):
     try:
         df = pd.read_csv(input_csv_path)
         train_df, test_df = train_test_split(df, test_size=test_size, random_state=random_state, stratify=df['Label'])
-
-        create_new_output_folder(output_csv_path)
         
-        train_df.to_csv(os.path.join(output_csv_path, "train_data.csv"), index=False)
-        test_df.to_csv(os.path.join(output_csv_path, "test_data.csv"), index=False)
+        ##################################################################################################
+        # train_df.to_csv(os.path.join(output_csv_path, "train_data_hog.csv"), index=False)
+        # test_df.to_csv(os.path.join(output_csv_path, "test_data_hog.csv"), index=False)
+        
+        train_df.to_csv(os.path.join(output_csv_path, "train_data_conv.csv"), index=False)
+        test_df.to_csv(os.path.join(output_csv_path, "test_data_conv.csv"), index=False)
+        ##################################################################################################
 
         log.info(f"Train Size: '{len(train_df)}, Test Size {len(test_df)}'.")
         log.info(f"Train and test sets saved to '{output_csv_path}'.")

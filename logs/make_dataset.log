@@ -278,3 +278,292 @@
 2024-03-31 23:24:18,895 - INFO - Train and test sets saved to 'data\train_test_csv'.
 2024-03-31 23:24:18,917 - INFO - Make Dataset Script complete.
 
+2024-05-07 04:57:09,381 - INFO - Make Dataset Script started.
+2024-05-07 04:57:09,381 - INFO - Preprocessing images from data\raw\101_ObjectCategories
+2024-05-07 04:57:09,922 - INFO - Deleted existing folder: 'C:\Users\kames\OneDrive\Desktop\Semester - 4\Machine Learning\Project\data\pre-processed\images'.
+2024-05-07 04:57:09,923 - INFO - Created new folder: 'C:\Users\kames\OneDrive\Desktop\Semester - 4\Machine Learning\Project\data\pre-processed\images'.
+2024-05-07 04:57:31,504 - INFO - Images preprocessed and saved in: 'data\pre-processed\images'.
+2024-05-07 04:57:47,892 - INFO - Deleted existing folder: 'C:\Users\kames\OneDrive\Desktop\Semester - 4\Machine Learning\Project\data\pre-processed\csv'.
+2024-05-07 04:57:47,892 - INFO - Created new folder: 'C:\Users\kames\OneDrive\Desktop\Semester - 4\Machine Learning\Project\data\pre-processed\csv'.
+2024-05-07 04:58:16,182 - INFO - PHOG features computed and saved to data\pre-processed\csv\preprocessed.csv
+2024-05-07 04:58:21,269 - INFO - Deleted existing folder: 'C:\Users\kames\OneDrive\Desktop\Semester - 4\Machine Learning\Project\data\train_test_csv'.
+2024-05-07 04:58:21,269 - INFO - Created new folder: 'C:\Users\kames\OneDrive\Desktop\Semester - 4\Machine Learning\Project\data\train_test_csv'.
+2024-05-07 04:58:58,728 - INFO - Train Size: '2641, Test Size 294'.
+2024-05-07 04:58:58,728 - INFO - Train and test sets saved to 'data\train_test_csv'.
+2024-05-07 04:58:58,745 - INFO - Make Dataset Script complete.
+
+2024-05-07 20:19:12,911 - INFO - Make Dataset Script started.
+2024-05-07 20:19:12,912 - INFO - Preprocessing images from data\raw\101_ObjectCategories
+2024-05-07 20:19:13,761 - INFO - Deleted existing folder: 'C:\Users\kames\OneDrive\Desktop\Semester - 4\Machine Learning\Project\data\pre-processed\images'.
+2024-05-07 20:19:13,762 - INFO - Created new folder: 'C:\Users\kames\OneDrive\Desktop\Semester - 4\Machine Learning\Project\data\pre-processed\images'.
+2024-05-07 20:19:39,709 - INFO - Images preprocessed and saved in: 'data\pre-processed\images'.
+2024-05-07 20:19:39,709 - ERROR - Error preprocessing images: make_cnn_features_csv() takes 2 positional arguments but 6 were given
+2024-05-07 20:19:45,834 - INFO - Deleted existing folder: 'C:\Users\kames\OneDrive\Desktop\Semester - 4\Machine Learning\Project\data\train_test_csv'.
+2024-05-07 20:19:45,835 - INFO - Created new folder: 'C:\Users\kames\OneDrive\Desktop\Semester - 4\Machine Learning\Project\data\train_test_csv'.
+2024-05-07 20:20:20,888 - INFO - Train Size: '2641, Test Size 294'.
+2024-05-07 20:20:20,888 - INFO - Train and test sets saved to 'data\train_test_csv'.
+2024-05-07 20:20:20,920 - INFO - Make Dataset Script complete.
+
+2024-05-07 20:21:07,099 - INFO - Make Dataset Script started.
+2024-05-07 20:21:07,099 - INFO - Preprocessing images from data\raw\101_ObjectCategories
+2024-05-07 20:21:08,003 - INFO - Deleted existing folder: 'C:\Users\kames\OneDrive\Desktop\Semester - 4\Machine Learning\Project\data\pre-processed\images'.
+2024-05-07 20:21:08,004 - INFO - Created new folder: 'C:\Users\kames\OneDrive\Desktop\Semester - 4\Machine Learning\Project\data\pre-processed\images'.
+2024-05-07 20:21:17,365 - INFO - Images preprocessed and saved in: 'data\pre-processed\images'.
+2024-05-07 20:21:17,365 - ERROR - Error preprocessing images: make_cnn_features_csv() takes 2 positional arguments but 6 were given
+2024-05-07 20:21:23,804 - INFO - Deleted existing folder: 'C:\Users\kames\OneDrive\Desktop\Semester - 4\Machine Learning\Project\data\train_test_csv'.
+2024-05-07 20:21:23,805 - INFO - Created new folder: 'C:\Users\kames\OneDrive\Desktop\Semester - 4\Machine Learning\Project\data\train_test_csv'.
+2024-05-07 20:21:56,112 - INFO - Train Size: '2641, Test Size 294'.
+2024-05-07 20:21:56,112 - INFO - Train and test sets saved to 'data\train_test_csv'.
+2024-05-07 20:21:56,141 - INFO - Make Dataset Script complete.
+
+2024-05-07 20:32:52,106 - INFO - Make Dataset Script started.
+2024-05-07 20:32:52,106 - INFO - Preprocessing images from data\raw\101_ObjectCategories
+2024-05-07 20:32:53,119 - INFO - Deleted existing folder: 'C:\Users\kames\OneDrive\Desktop\Semester - 4\Machine Learning\Project\data\pre-processed\images'.
+2024-05-07 20:32:53,120 - INFO - Created new folder: 'C:\Users\kames\OneDrive\Desktop\Semester - 4\Machine Learning\Project\data\pre-processed\images'.
+2024-05-07 20:33:03,197 - INFO - Images preprocessed and saved in: 'data\pre-processed\images'.
+2024-05-07 20:33:03,199 - ERROR - Error making CNN features CSV: create_cnn_model() missing 1 required positional argument: 'input_shape'
+2024-05-07 20:33:09,343 - INFO - Deleted existing folder: 'C:\Users\kames\OneDrive\Desktop\Semester - 4\Machine Learning\Project\data\train_test_csv'.
+2024-05-07 20:33:09,344 - INFO - Created new folder: 'C:\Users\kames\OneDrive\Desktop\Semester - 4\Machine Learning\Project\data\train_test_csv'.
+2024-05-07 20:33:50,478 - INFO - Make Dataset Script started.
+2024-05-07 20:33:50,478 - INFO - Preprocessing images from data\raw\101_ObjectCategories
+2024-05-07 20:33:51,211 - INFO - Deleted existing folder: 'C:\Users\kames\OneDrive\Desktop\Semester - 4\Machine Learning\Project\data\pre-processed\images'.
+2024-05-07 20:33:51,211 - INFO - Created new folder: 'C:\Users\kames\OneDrive\Desktop\Semester - 4\Machine Learning\Project\data\pre-processed\images'.
+2024-05-07 20:33:58,841 - INFO - Images preprocessed and saved in: 'data\pre-processed\images'.
+2024-05-07 20:33:58,841 - ERROR - Error making CNN features CSV: create_cnn_model() missing 1 required positional argument: 'input_shape'
+2024-05-07 20:34:04,476 - INFO - Deleted existing folder: 'C:\Users\kames\OneDrive\Desktop\Semester - 4\Machine Learning\Project\data\train_test_csv'.
+2024-05-07 20:34:04,477 - INFO - Created new folder: 'C:\Users\kames\OneDrive\Desktop\Semester - 4\Machine Learning\Project\data\train_test_csv'.
+2024-05-07 20:34:37,043 - INFO - Train Size: '2641, Test Size 294'.
+2024-05-07 20:34:37,043 - INFO - Train and test sets saved to 'data\train_test_csv'.
+2024-05-07 20:34:37,067 - INFO - Make Dataset Script complete.
+
+2024-05-07 20:35:00,862 - INFO - Make Dataset Script started.
+2024-05-07 20:35:00,863 - INFO - Preprocessing images from data\raw\101_ObjectCategories
+2024-05-07 20:35:01,776 - INFO - Deleted existing folder: 'C:\Users\kames\OneDrive\Desktop\Semester - 4\Machine Learning\Project\data\pre-processed\images'.
+2024-05-07 20:35:01,777 - INFO - Created new folder: 'C:\Users\kames\OneDrive\Desktop\Semester - 4\Machine Learning\Project\data\pre-processed\images'.
+2024-05-07 20:35:09,092 - INFO - Images preprocessed and saved in: 'data\pre-processed\images'.
+2024-05-07 20:35:09,093 - ERROR - Error making CNN features CSV: create_cnn_model() missing 1 required positional argument: 'input_shape'
+2024-05-07 20:35:15,019 - INFO - Deleted existing folder: 'C:\Users\kames\OneDrive\Desktop\Semester - 4\Machine Learning\Project\data\train_test_csv'.
+2024-05-07 20:35:15,020 - INFO - Created new folder: 'C:\Users\kames\OneDrive\Desktop\Semester - 4\Machine Learning\Project\data\train_test_csv'.
+2024-05-07 20:35:48,537 - INFO - Train Size: '2641, Test Size 294'.
+2024-05-07 20:35:48,538 - INFO - Train and test sets saved to 'data\train_test_csv'.
+2024-05-07 20:35:48,564 - INFO - Make Dataset Script complete.
+
+2024-05-07 20:36:28,617 - INFO - Make Dataset Script started.
+2024-05-07 20:36:28,622 - INFO - Preprocessing images from data\raw\101_ObjectCategories
+2024-05-07 20:36:29,370 - INFO - Deleted existing folder: 'C:\Users\kames\OneDrive\Desktop\Semester - 4\Machine Learning\Project\data\pre-processed\images'.
+2024-05-07 20:36:29,372 - INFO - Created new folder: 'C:\Users\kames\OneDrive\Desktop\Semester - 4\Machine Learning\Project\data\pre-processed\images'.
+2024-05-07 20:36:37,351 - INFO - Images preprocessed and saved in: 'data\pre-processed\images'.
+2024-05-07 20:36:37,351 - ERROR - Error making CNN features CSV: create_cnn_model() missing 1 required positional argument: 'input_shape'
+2024-05-07 20:36:43,426 - INFO - Deleted existing folder: 'C:\Users\kames\OneDrive\Desktop\Semester - 4\Machine Learning\Project\data\train_test_csv'.
+2024-05-07 20:36:43,427 - INFO - Created new folder: 'C:\Users\kames\OneDrive\Desktop\Semester - 4\Machine Learning\Project\data\train_test_csv'.
+2024-05-07 20:37:15,691 - INFO - Train Size: '2641, Test Size 294'.
+2024-05-07 20:37:15,691 - INFO - Train and test sets saved to 'data\train_test_csv'.
+2024-05-07 20:37:15,718 - INFO - Make Dataset Script complete.
+
+2024-05-07 20:43:35,398 - INFO - Make Dataset Script started.
+2024-05-07 20:43:35,399 - INFO - Preprocessing images from data\raw\101_ObjectCategories
+2024-05-07 20:43:36,177 - INFO - Deleted existing folder: 'C:\Users\kames\OneDrive\Desktop\Semester - 4\Machine Learning\Project\data\pre-processed\images'.
+2024-05-07 20:43:36,178 - INFO - Created new folder: 'C:\Users\kames\OneDrive\Desktop\Semester - 4\Machine Learning\Project\data\pre-processed\images'.
+2024-05-07 20:43:43,706 - INFO - Images preprocessed and saved in: 'data\pre-processed\images'.
+2024-05-07 20:43:43,706 - ERROR - Error making CNN features CSV: create_cnn_model() missing 1 required positional argument: 'input_shape'
+2024-05-07 20:43:49,677 - INFO - Deleted existing folder: 'C:\Users\kames\OneDrive\Desktop\Semester - 4\Machine Learning\Project\data\train_test_csv'.
+2024-05-07 20:43:49,678 - INFO - Created new folder: 'C:\Users\kames\OneDrive\Desktop\Semester - 4\Machine Learning\Project\data\train_test_csv'.
+2024-05-07 20:44:24,184 - INFO - Train Size: '2641, Test Size 294'.
+2024-05-07 20:44:24,184 - INFO - Train and test sets saved to 'data\train_test_csv'.
+2024-05-07 20:44:24,219 - INFO - Make Dataset Script complete.
+
+2024-05-07 20:47:57,388 - INFO - Make Dataset Script started.
+2024-05-07 20:47:57,388 - INFO - Preprocessing images from data\raw\101_ObjectCategories
+2024-05-07 20:47:58,323 - INFO - Deleted existing folder: 'C:\Users\kames\OneDrive\Desktop\Semester - 4\Machine Learning\Project\data\pre-processed\images'.
+2024-05-07 20:47:58,324 - INFO - Created new folder: 'C:\Users\kames\OneDrive\Desktop\Semester - 4\Machine Learning\Project\data\pre-processed\images'.
+2024-05-07 20:48:08,095 - INFO - Images preprocessed and saved in: 'data\pre-processed\images'.
+2024-05-07 20:48:09,514 - WARNING - 5 out of the last 5 calls to <function TensorFlowTrainer.make_predict_function.<locals>.one_step_on_data_distributed at 0x00000262DF08C720> triggered tf.function retracing. Tracing is expensive and the excessive number of tracings could be due to (1) creating @tf.function repeatedly in a loop, (2) passing tensors with different shapes, (3) passing Python objects instead of tensors. For (1), please define your @tf.function outside of the loop. For (2), @tf.function has reduce_retracing=True option that can avoid unnecessary retracing. For (3), please refer to https://www.tensorflow.org/guide/function#controlling_retracing and https://www.tensorflow.org/api_docs/python/tf/function for  more details.
+2024-05-07 20:48:09,696 - WARNING - 6 out of the last 6 calls to <function TensorFlowTrainer.make_predict_function.<locals>.one_step_on_data_distributed at 0x00000262E09358A0> triggered tf.function retracing. Tracing is expensive and the excessive number of tracings could be due to (1) creating @tf.function repeatedly in a loop, (2) passing tensors with different shapes, (3) passing Python objects instead of tensors. For (1), please define your @tf.function outside of the loop. For (2), @tf.function has reduce_retracing=True option that can avoid unnecessary retracing. For (3), please refer to https://www.tensorflow.org/guide/function#controlling_retracing and https://www.tensorflow.org/api_docs/python/tf/function for  more details.
+2024-05-07 20:58:59,104 - INFO - Deleted existing folder: 'C:\Users\kames\OneDrive\Desktop\Semester - 4\Machine Learning\Project\data\pre-processed\csv'.
+2024-05-07 20:58:59,117 - INFO - Created new folder: 'C:\Users\kames\OneDrive\Desktop\Semester - 4\Machine Learning\Project\data\pre-processed\csv'.
+2024-05-07 21:01:27,957 - INFO - CNN features computed and saved to data\pre-processed\csv\preprocessed_conv.csv
+2024-05-07 21:01:30,539 - ERROR - Error occurred: [Errno 2] No such file or directory: 'data\\pre-processed\\csv\\preprocessed.csv'
+2024-05-07 21:01:30,540 - INFO - Make Dataset Script complete.
+
+2024-05-07 21:12:32,800 - INFO - Make Dataset Script started.
+2024-05-07 21:12:32,800 - INFO - Preprocessing images from data\raw\101_ObjectCategories
+2024-05-07 21:12:33,769 - INFO - Deleted existing folder: 'C:\Users\kames\OneDrive\Desktop\Semester - 4\Machine Learning\Project\data\pre-processed\images'.
+2024-05-07 21:12:33,770 - INFO - Created new folder: 'C:\Users\kames\OneDrive\Desktop\Semester - 4\Machine Learning\Project\data\pre-processed\images'.
+2024-05-07 21:12:43,686 - INFO - Images preprocessed and saved in: 'data\pre-processed\images'.
+2024-05-07 21:12:44,945 - WARNING - 5 out of the last 5 calls to <function TensorFlowTrainer.make_predict_function.<locals>.one_step_on_data_distributed at 0x0000012727F2C720> triggered tf.function retracing. Tracing is expensive and the excessive number of tracings could be due to (1) creating @tf.function repeatedly in a loop, (2) passing tensors with different shapes, (3) passing Python objects instead of tensors. For (1), please define your @tf.function outside of the loop. For (2), @tf.function has reduce_retracing=True option that can avoid unnecessary retracing. For (3), please refer to https://www.tensorflow.org/guide/function#controlling_retracing and https://www.tensorflow.org/api_docs/python/tf/function for  more details.
+2024-05-07 21:12:45,122 - WARNING - 6 out of the last 6 calls to <function TensorFlowTrainer.make_predict_function.<locals>.one_step_on_data_distributed at 0x00000127299D98A0> triggered tf.function retracing. Tracing is expensive and the excessive number of tracings could be due to (1) creating @tf.function repeatedly in a loop, (2) passing tensors with different shapes, (3) passing Python objects instead of tensors. For (1), please define your @tf.function outside of the loop. For (2), @tf.function has reduce_retracing=True option that can avoid unnecessary retracing. For (3), please refer to https://www.tensorflow.org/guide/function#controlling_retracing and https://www.tensorflow.org/api_docs/python/tf/function for  more details.
+2024-05-07 21:16:08,321 - INFO - Make Dataset Script started.
+2024-05-07 21:16:08,321 - INFO - Preprocessing images from data\raw\101_ObjectCategories
+2024-05-07 21:16:09,257 - INFO - Deleted existing folder: 'C:\Users\kames\OneDrive\Desktop\Semester - 4\Machine Learning\Project\data\pre-processed\images'.
+2024-05-07 21:16:09,258 - INFO - Created new folder: 'C:\Users\kames\OneDrive\Desktop\Semester - 4\Machine Learning\Project\data\pre-processed\images'.
+2024-05-07 21:16:16,987 - INFO - Images preprocessed and saved in: 'data\pre-processed\images'.
+2024-05-07 21:16:18,050 - WARNING - 5 out of the last 5 calls to <function TensorFlowTrainer.make_predict_function.<locals>.one_step_on_data_distributed at 0x000001844493C720> triggered tf.function retracing. Tracing is expensive and the excessive number of tracings could be due to (1) creating @tf.function repeatedly in a loop, (2) passing tensors with different shapes, (3) passing Python objects instead of tensors. For (1), please define your @tf.function outside of the loop. For (2), @tf.function has reduce_retracing=True option that can avoid unnecessary retracing. For (3), please refer to https://www.tensorflow.org/guide/function#controlling_retracing and https://www.tensorflow.org/api_docs/python/tf/function for  more details.
+2024-05-07 21:16:18,256 - WARNING - 6 out of the last 6 calls to <function TensorFlowTrainer.make_predict_function.<locals>.one_step_on_data_distributed at 0x00000184461F98A0> triggered tf.function retracing. Tracing is expensive and the excessive number of tracings could be due to (1) creating @tf.function repeatedly in a loop, (2) passing tensors with different shapes, (3) passing Python objects instead of tensors. For (1), please define your @tf.function outside of the loop. For (2), @tf.function has reduce_retracing=True option that can avoid unnecessary retracing. For (3), please refer to https://www.tensorflow.org/guide/function#controlling_retracing and https://www.tensorflow.org/api_docs/python/tf/function for  more details.
+2024-05-07 21:16:48,350 - INFO - Make Dataset Script started.
+2024-05-07 21:16:48,351 - INFO - Preprocessing images from data\raw\101_ObjectCategories
+2024-05-07 21:16:49,160 - INFO - Deleted existing folder: 'C:\Users\kames\OneDrive\Desktop\Semester - 4\Machine Learning\Project\data\pre-processed\images'.
+2024-05-07 21:16:49,161 - INFO - Created new folder: 'C:\Users\kames\OneDrive\Desktop\Semester - 4\Machine Learning\Project\data\pre-processed\images'.
+2024-05-07 21:18:03,495 - INFO - Make Dataset Script started.
+2024-05-07 21:18:03,495 - INFO - Preprocessing images from data\raw\101_ObjectCategories
+2024-05-07 21:18:03,905 - INFO - Deleted existing folder: 'C:\Users\kames\OneDrive\Desktop\Semester - 4\Machine Learning\Project\data\pre-processed\images'.
+2024-05-07 21:18:03,906 - INFO - Created new folder: 'C:\Users\kames\OneDrive\Desktop\Semester - 4\Machine Learning\Project\data\pre-processed\images'.
+2024-05-07 21:18:11,753 - INFO - Images preprocessed and saved in: 'data\pre-processed\images'.
+2024-05-07 21:18:12,675 - WARNING - 5 out of the last 5 calls to <function TensorFlowTrainer.make_predict_function.<locals>.one_step_on_data_distributed at 0x00000177BF1DC720> triggered tf.function retracing. Tracing is expensive and the excessive number of tracings could be due to (1) creating @tf.function repeatedly in a loop, (2) passing tensors with different shapes, (3) passing Python objects instead of tensors. For (1), please define your @tf.function outside of the loop. For (2), @tf.function has reduce_retracing=True option that can avoid unnecessary retracing. For (3), please refer to https://www.tensorflow.org/guide/function#controlling_retracing and https://www.tensorflow.org/api_docs/python/tf/function for  more details.
+2024-05-07 21:18:12,870 - WARNING - 6 out of the last 6 calls to <function TensorFlowTrainer.make_predict_function.<locals>.one_step_on_data_distributed at 0x00000177C0A898A0> triggered tf.function retracing. Tracing is expensive and the excessive number of tracings could be due to (1) creating @tf.function repeatedly in a loop, (2) passing tensors with different shapes, (3) passing Python objects instead of tensors. For (1), please define your @tf.function outside of the loop. For (2), @tf.function has reduce_retracing=True option that can avoid unnecessary retracing. For (3), please refer to https://www.tensorflow.org/guide/function#controlling_retracing and https://www.tensorflow.org/api_docs/python/tf/function for  more details.
+2024-05-07 21:19:16,689 - INFO - Make Dataset Script started.
+2024-05-07 21:19:16,690 - INFO - Preprocessing images from data\raw\101_ObjectCategories
+2024-05-07 21:19:17,596 - INFO - Deleted existing folder: 'C:\Users\kames\OneDrive\Desktop\Semester - 4\Machine Learning\Project\data\pre-processed\images'.
+2024-05-07 21:19:17,597 - INFO - Created new folder: 'C:\Users\kames\OneDrive\Desktop\Semester - 4\Machine Learning\Project\data\pre-processed\images'.
+2024-05-07 21:19:25,742 - INFO - Images preprocessed and saved in: 'data\pre-processed\images'.
+2024-05-07 21:19:26,825 - WARNING - 5 out of the last 5 calls to <function TensorFlowTrainer.make_predict_function.<locals>.one_step_on_data_distributed at 0x0000020B143AC720> triggered tf.function retracing. Tracing is expensive and the excessive number of tracings could be due to (1) creating @tf.function repeatedly in a loop, (2) passing tensors with different shapes, (3) passing Python objects instead of tensors. For (1), please define your @tf.function outside of the loop. For (2), @tf.function has reduce_retracing=True option that can avoid unnecessary retracing. For (3), please refer to https://www.tensorflow.org/guide/function#controlling_retracing and https://www.tensorflow.org/api_docs/python/tf/function for  more details.
+2024-05-07 21:19:27,008 - WARNING - 6 out of the last 6 calls to <function TensorFlowTrainer.make_predict_function.<locals>.one_step_on_data_distributed at 0x0000020B15C558A0> triggered tf.function retracing. Tracing is expensive and the excessive number of tracings could be due to (1) creating @tf.function repeatedly in a loop, (2) passing tensors with different shapes, (3) passing Python objects instead of tensors. For (1), please define your @tf.function outside of the loop. For (2), @tf.function has reduce_retracing=True option that can avoid unnecessary retracing. For (3), please refer to https://www.tensorflow.org/guide/function#controlling_retracing and https://www.tensorflow.org/api_docs/python/tf/function for  more details.
+2024-05-07 21:22:48,512 - INFO - Make Dataset Script started.
+2024-05-07 21:22:48,512 - INFO - Preprocessing images from data\raw\101_ObjectCategories
+2024-05-07 21:22:51,378 - INFO - Deleted existing folder: 'C:\Users\kames\OneDrive\Desktop\Semester - 4\Machine Learning\Project\data\pre-processed\images'.
+2024-05-07 21:22:51,378 - INFO - Created new folder: 'C:\Users\kames\OneDrive\Desktop\Semester - 4\Machine Learning\Project\data\pre-processed\images'.
+2024-05-07 21:23:00,106 - INFO - Images preprocessed and saved in: 'data\pre-processed\images'.
+2024-05-07 21:34:10,543 - INFO - Deleted existing folder: 'C:\Users\kames\OneDrive\Desktop\Semester - 4\Machine Learning\Project\data\pre-processed\csv'.
+2024-05-07 21:34:10,545 - INFO - Created new folder: 'C:\Users\kames\OneDrive\Desktop\Semester - 4\Machine Learning\Project\data\pre-processed\csv'.
+2024-05-07 21:36:48,821 - INFO - CNN features computed and saved to data\pre-processed\csv\preprocessed.csv
+2024-05-07 21:37:32,133 - INFO - Deleted existing folder: 'C:\Users\kames\OneDrive\Desktop\Semester - 4\Machine Learning\Project\data\train_test_csv'.
+2024-05-07 21:37:32,134 - INFO - Created new folder: 'C:\Users\kames\OneDrive\Desktop\Semester - 4\Machine Learning\Project\data\train_test_csv'.
+2024-05-07 21:42:37,146 - INFO - Train Size: '2641, Test Size 294'.
+2024-05-07 21:42:37,158 - INFO - Train and test sets saved to 'data\train_test_csv'.
+2024-05-07 21:42:37,314 - INFO - Make Dataset Script complete.
+
+2024-05-07 21:53:58,371 - INFO - Make Dataset Script started.
+2024-05-07 21:53:58,383 - INFO - Preprocessing images from data\raw\101_ObjectCategories
+2024-05-07 21:53:59,767 - INFO - Deleted existing folder: 'C:\Users\kames\OneDrive\Desktop\Semester - 4\Machine Learning\Project\data\pre-processed\images'.
+2024-05-07 21:53:59,768 - INFO - Created new folder: 'C:\Users\kames\OneDrive\Desktop\Semester - 4\Machine Learning\Project\data\pre-processed\images'.
+2024-05-07 21:54:32,163 - INFO - Make Dataset Script started.
+2024-05-07 21:54:32,164 - INFO - Preprocessing images from data\raw\101_ObjectCategories
+2024-05-07 21:54:32,569 - INFO - Deleted existing folder: 'C:\Users\kames\OneDrive\Desktop\Semester - 4\Machine Learning\Project\data\pre-processed\images'.
+2024-05-07 21:54:32,570 - INFO - Created new folder: 'C:\Users\kames\OneDrive\Desktop\Semester - 4\Machine Learning\Project\data\pre-processed\images'.
+2024-05-07 21:54:48,086 - INFO - Images preprocessed and saved in: 'data\pre-processed\images'.
+2024-05-07 21:59:56,064 - INFO - Make Dataset Script started.
+2024-05-07 21:59:56,064 - INFO - Preprocessing images from data\raw\101_ObjectCategories
+2024-05-07 21:59:56,877 - INFO - Deleted existing folder: 'C:\Users\kames\OneDrive\Desktop\Semester - 4\Machine Learning\Project\data\pre-processed\images'.
+2024-05-07 21:59:56,878 - INFO - Created new folder: 'C:\Users\kames\OneDrive\Desktop\Semester - 4\Machine Learning\Project\data\pre-processed\images'.
+2024-05-07 22:00:21,054 - INFO - Images preprocessed and saved in: 'data\pre-processed\images'.
+2024-05-07 22:00:38,326 - INFO - Deleted existing folder: 'C:\Users\kames\OneDrive\Desktop\Semester - 4\Machine Learning\Project\data\pre-processed\csv'.
+2024-05-07 22:00:38,326 - INFO - Created new folder: 'C:\Users\kames\OneDrive\Desktop\Semester - 4\Machine Learning\Project\data\pre-processed\csv'.
+2024-05-07 22:01:09,058 - INFO - PHOG features computed and saved to data\pre-processed\csv\preprocessed.csv
+2024-05-07 22:01:14,509 - INFO - Deleted existing folder: 'C:\Users\kames\OneDrive\Desktop\Semester - 4\Machine Learning\Project\data\train_test_csv'.
+2024-05-07 22:01:14,510 - INFO - Created new folder: 'C:\Users\kames\OneDrive\Desktop\Semester - 4\Machine Learning\Project\data\train_test_csv'.
+2024-05-07 22:01:45,980 - INFO - Train Size: '2641, Test Size 294'.
+2024-05-07 22:01:45,980 - INFO - Train and test sets saved to 'data\train_test_csv'.
+2024-05-07 22:01:45,995 - INFO - Make Dataset Script complete.
+
+2024-05-07 22:18:53,861 - INFO - Make Dataset Script started.
+2024-05-07 22:18:53,861 - INFO - Preprocessing images from data\raw\101_ObjectCategories
+2024-05-07 22:18:54,458 - INFO - Deleted existing folder: 'C:\Users\kames\OneDrive\Desktop\Semester - 4\Machine Learning\Project\data\pre-processed\images'.
+2024-05-07 22:18:54,458 - INFO - Created new folder: 'C:\Users\kames\OneDrive\Desktop\Semester - 4\Machine Learning\Project\data\pre-processed\images'.
+2024-05-07 22:19:02,057 - INFO - Images preprocessed and saved in: 'data\pre-processed\images'.
+2024-05-07 22:19:19,647 - INFO - Deleted existing folder: 'C:\Users\kames\OneDrive\Desktop\Semester - 4\Machine Learning\Project\data\pre-processed\csv'.
+2024-05-07 22:19:19,647 - INFO - Created new folder: 'C:\Users\kames\OneDrive\Desktop\Semester - 4\Machine Learning\Project\data\pre-processed\csv'.
+2024-05-07 22:19:53,155 - INFO - PHOG features computed and saved to data\pre-processed\csv\preprocessed.csv
+2024-05-07 22:19:59,507 - INFO - Deleted existing folder: 'C:\Users\kames\OneDrive\Desktop\Semester - 4\Machine Learning\Project\data\train_test_csv'.
+2024-05-07 22:19:59,507 - INFO - Created new folder: 'C:\Users\kames\OneDrive\Desktop\Semester - 4\Machine Learning\Project\data\train_test_csv'.
+2024-05-07 22:20:31,305 - INFO - Train Size: '2641, Test Size 294'.
+2024-05-07 22:20:31,305 - INFO - Train and test sets saved to 'data\train_test_csv'.
+2024-05-07 22:20:31,321 - INFO - Make Dataset Script complete.
+
+2024-05-07 22:24:30,190 - INFO - Make Dataset Script started.
+2024-05-07 22:24:30,190 - INFO - Preprocessing images from data\raw\101_ObjectCategories
+2024-05-07 22:24:30,999 - INFO - Deleted existing folder: 'C:\Users\kames\OneDrive\Desktop\Semester - 4\Machine Learning\Project\data\pre-processed\images'.
+2024-05-07 22:24:30,999 - INFO - Created new folder: 'C:\Users\kames\OneDrive\Desktop\Semester - 4\Machine Learning\Project\data\pre-processed\images'.
+2024-05-07 22:24:40,129 - INFO - Images preprocessed and saved in: 'data\pre-processed\images'.
+2024-05-07 22:24:40,344 - ERROR - Error making CNN features CSV: 'Sequential' object has no attribute 'tolist'
+2024-05-07 22:24:46,515 - INFO - Deleted existing folder: 'C:\Users\kames\OneDrive\Desktop\Semester - 4\Machine Learning\Project\data\train_test_csv'.
+2024-05-07 22:24:46,516 - INFO - Created new folder: 'C:\Users\kames\OneDrive\Desktop\Semester - 4\Machine Learning\Project\data\train_test_csv'.
+2024-05-07 22:25:19,318 - INFO - Train Size: '2641, Test Size 294'.
+2024-05-07 22:25:19,318 - INFO - Train and test sets saved to 'data\train_test_csv'.
+2024-05-07 22:25:19,342 - INFO - Make Dataset Script complete.
+
+2024-05-07 22:27:43,854 - INFO - Make Dataset Script started.
+2024-05-07 22:27:43,855 - INFO - Preprocessing images from data\raw\101_ObjectCategories
+2024-05-07 22:27:44,417 - INFO - Deleted existing folder: 'C:\Users\kames\OneDrive\Desktop\Semester - 4\Machine Learning\Project\data\pre-processed\images'.
+2024-05-07 22:27:44,417 - INFO - Created new folder: 'C:\Users\kames\OneDrive\Desktop\Semester - 4\Machine Learning\Project\data\pre-processed\images'.
+2024-05-07 22:27:51,863 - INFO - Images preprocessed and saved in: 'data\pre-processed\images'.
+2024-05-07 22:27:51,971 - ERROR - Error making CNN features CSV: 'Sequential' object has no attribute 'tolist'
+2024-05-07 22:27:57,448 - INFO - Deleted existing folder: 'C:\Users\kames\OneDrive\Desktop\Semester - 4\Machine Learning\Project\data\train_test_csv'.
+2024-05-07 22:27:57,448 - INFO - Created new folder: 'C:\Users\kames\OneDrive\Desktop\Semester - 4\Machine Learning\Project\data\train_test_csv'.
+2024-05-07 22:28:28,072 - INFO - Train Size: '2641, Test Size 294'.
+2024-05-07 22:28:28,073 - INFO - Train and test sets saved to 'data\train_test_csv'.
+2024-05-07 22:28:28,088 - INFO - Make Dataset Script complete.
+
+2024-05-07 22:30:43,843 - INFO - Make Dataset Script started.
+2024-05-07 22:30:43,844 - INFO - Preprocessing images from data\raw\101_ObjectCategories
+2024-05-07 22:30:44,411 - INFO - Deleted existing folder: 'C:\Users\kames\OneDrive\Desktop\Semester - 4\Machine Learning\Project\data\pre-processed\images'.
+2024-05-07 22:30:44,412 - INFO - Created new folder: 'C:\Users\kames\OneDrive\Desktop\Semester - 4\Machine Learning\Project\data\pre-processed\images'.
+2024-05-07 22:30:51,039 - INFO - Images preprocessed and saved in: 'data\pre-processed\images'.
+2024-05-07 22:30:51,140 - ERROR - Error making CNN features CSV: 'Sequential' object has no attribute 'tolist'
+2024-05-07 22:31:27,235 - INFO - Train Size: '2641, Test Size 294'.
+2024-05-07 22:31:27,235 - INFO - Train and test sets saved to 'data\train_test_csv'.
+2024-05-07 22:31:27,266 - INFO - Make Dataset Script complete.
+
+2024-05-07 22:31:49,488 - INFO - Make Dataset Script started.
+2024-05-07 22:31:49,488 - INFO - Preprocessing images from data\raw\101_ObjectCategories
+2024-05-07 22:31:50,067 - INFO - Deleted existing folder: 'C:\Users\kames\OneDrive\Desktop\Semester - 4\Machine Learning\Project\data\pre-processed\images'.
+2024-05-07 22:31:50,067 - INFO - Created new folder: 'C:\Users\kames\OneDrive\Desktop\Semester - 4\Machine Learning\Project\data\pre-processed\images'.
+2024-05-07 22:31:57,382 - INFO - Images preprocessed and saved in: 'data\pre-processed\images'.
+2024-05-07 22:32:14,659 - INFO - Deleted existing folder: 'C:\Users\kames\OneDrive\Desktop\Semester - 4\Machine Learning\Project\data\pre-processed\csv'.
+2024-05-07 22:32:14,659 - INFO - Created new folder: 'C:\Users\kames\OneDrive\Desktop\Semester - 4\Machine Learning\Project\data\pre-processed\csv'.
+2024-05-07 22:33:37,257 - INFO - Make Dataset Script started.
+2024-05-07 22:33:37,258 - INFO - Preprocessing images from data\raw\101_ObjectCategories
+2024-05-07 22:33:37,795 - INFO - Deleted existing folder: 'C:\Users\kames\OneDrive\Desktop\Semester - 4\Machine Learning\Project\data\pre-processed\images'.
+2024-05-07 22:33:37,795 - INFO - Created new folder: 'C:\Users\kames\OneDrive\Desktop\Semester - 4\Machine Learning\Project\data\pre-processed\images'.
+2024-05-07 22:34:00,196 - INFO - Make Dataset Script started.
+2024-05-07 22:34:00,197 - INFO - Preprocessing images from data\raw\101_ObjectCategories
+2024-05-07 22:34:00,260 - INFO - Deleted existing folder: 'C:\Users\kames\OneDrive\Desktop\Semester - 4\Machine Learning\Project\data\pre-processed\images'.
+2024-05-07 22:34:00,261 - INFO - Created new folder: 'C:\Users\kames\OneDrive\Desktop\Semester - 4\Machine Learning\Project\data\pre-processed\images'.
+2024-05-07 22:34:06,651 - INFO - Images preprocessed and saved in: 'data\pre-processed\images'.
+2024-05-07 22:34:22,780 - INFO - Deleted existing folder: 'C:\Users\kames\OneDrive\Desktop\Semester - 4\Machine Learning\Project\data\pre-processed\csv'.
+2024-05-07 22:34:22,781 - INFO - Created new folder: 'C:\Users\kames\OneDrive\Desktop\Semester - 4\Machine Learning\Project\data\pre-processed\csv'.
+2024-05-07 22:34:50,371 - INFO - PHOG features computed and saved to data\pre-processed\csv\preprocessed.csv
+2024-05-07 22:35:24,267 - INFO - Train Size: '2641, Test Size 294'.
+2024-05-07 22:35:24,267 - INFO - Train and test sets saved to 'data\train_test_csv'.
+2024-05-07 22:35:24,284 - INFO - Make Dataset Script complete.
+
+2024-05-07 22:36:08,499 - INFO - Make Dataset Script started.
+2024-05-07 22:36:08,499 - INFO - Preprocessing images from data\raw\101_ObjectCategories
+2024-05-07 22:36:09,185 - INFO - Deleted existing folder: 'C:\Users\kames\OneDrive\Desktop\Semester - 4\Machine Learning\Project\data\pre-processed\images'.
+2024-05-07 22:36:09,192 - INFO - Created new folder: 'C:\Users\kames\OneDrive\Desktop\Semester - 4\Machine Learning\Project\data\pre-processed\images'.
+2024-05-07 22:36:17,719 - INFO - Images preprocessed and saved in: 'data\pre-processed\images'.
+2024-05-07 22:36:17,849 - ERROR - Error making CNN features CSV: 'Sequential' object has no attribute 'tolist'
+2024-05-07 22:36:55,753 - INFO - Train Size: '2641, Test Size 294'.
+2024-05-07 22:36:55,753 - INFO - Train and test sets saved to 'data\train_test_csv'.
+2024-05-07 22:36:55,782 - INFO - Make Dataset Script complete.
+
+2024-05-07 23:07:15,069 - INFO - Make Dataset Script started.
+2024-05-07 23:07:15,070 - INFO - Preprocessing images from data\raw\101_ObjectCategories
+2024-05-07 23:07:15,801 - INFO - Deleted existing folder: 'C:\Users\kames\OneDrive\Desktop\Semester - 4\Machine Learning\Project\data\pre-processed\images'.
+2024-05-07 23:07:15,801 - INFO - Created new folder: 'C:\Users\kames\OneDrive\Desktop\Semester - 4\Machine Learning\Project\data\pre-processed\images'.
+2024-05-07 23:07:26,152 - INFO - Images preprocessed and saved in: 'data\pre-processed\images'.
+2024-05-07 23:07:26,382 - ERROR - Error making CNN features CSV: 'Sequential' object has no attribute 'tolist'
+2024-05-07 23:07:34,126 - ERROR - Error occurred: [Errno 13] Permission denied: 'data\\train_test_csv\\train_data_conv.csv'
+2024-05-07 23:07:34,150 - INFO - Make Dataset Script complete.
+
+2024-05-07 23:10:35,018 - INFO - Make Dataset Script started.
+2024-05-07 23:10:35,019 - INFO - Preprocessing images from data\raw\101_ObjectCategories
+2024-05-07 23:10:35,638 - INFO - Deleted existing folder: 'C:\Users\kames\OneDrive\Desktop\Semester - 4\Machine Learning\Project\data\pre-processed\images'.
+2024-05-07 23:10:35,638 - INFO - Created new folder: 'C:\Users\kames\OneDrive\Desktop\Semester - 4\Machine Learning\Project\data\pre-processed\images'.
+2024-05-07 23:10:43,254 - INFO - Images preprocessed and saved in: 'data\pre-processed\images'.
+2024-05-07 23:19:03,300 - INFO - Deleted existing folder: 'C:\Users\kames\OneDrive\Desktop\Semester - 4\Machine Learning\Project\data\pre-processed\csv'.
+2024-05-07 23:19:03,303 - INFO - Created new folder: 'C:\Users\kames\OneDrive\Desktop\Semester - 4\Machine Learning\Project\data\pre-processed\csv'.
+2024-05-07 23:20:00,233 - INFO - CNN features computed and saved to data\pre-processed\csv\preprocessed.csv
+2024-05-07 23:21:06,685 - INFO - Train Size: '2641, Test Size 294'.
+2024-05-07 23:21:06,686 - INFO - Train and test sets saved to 'data\train_test_csv'.
+2024-05-07 23:21:06,725 - INFO - Make Dataset Script complete.
+
+2024-05-07 23:37:01,344 - INFO - Make Dataset Script started.
+2024-05-07 23:37:01,344 - INFO - Preprocessing images from data\raw\101_ObjectCategories
+2024-05-07 23:37:02,189 - INFO - Deleted existing folder: 'C:\Users\kames\OneDrive\Desktop\Semester - 4\Machine Learning\Project\data\pre-processed\images'.
+2024-05-07 23:37:02,191 - INFO - Created new folder: 'C:\Users\kames\OneDrive\Desktop\Semester - 4\Machine Learning\Project\data\pre-processed\images'.
+2024-05-07 23:37:11,864 - INFO - Images preprocessed and saved in: 'data\pre-processed\images'.
+2024-05-07 23:48:21,641 - INFO - Deleted existing folder: 'C:\Users\kames\OneDrive\Desktop\Semester - 4\Machine Learning\Project\data\pre-processed\csv'.
+2024-05-07 23:48:21,644 - INFO - Created new folder: 'C:\Users\kames\OneDrive\Desktop\Semester - 4\Machine Learning\Project\data\pre-processed\csv'.
+2024-05-07 23:49:26,941 - INFO - CNN features computed and saved to data\pre-processed\csv\preprocessed.csv
+2024-05-07 23:49:42,319 - ERROR - Error occurred: [Errno 13] Permission denied: 'data\\train_test_csv\\train_data_conv.csv'
+2024-05-07 23:49:42,358 - INFO - Make Dataset Script complete.
+

@@ -55,7 +55,7 @@ def compute_hog_features(image_path, normalize, cell_size=(8, 8), block_size=(2,
 
     return hog_features.flatten()
 
-def make_phog_features_csv(input, output_csv_path, normalize, bins=9, cell_size=(8, 8), block_size=(2, 2)):
+def make_hog_features_csv(input, output_csv_path, normalize, bins=9, cell_size=(8, 8), block_size=(2, 2)):
     """
     Compute PHOG features for all images in a directory and save them to a CSV file.
 

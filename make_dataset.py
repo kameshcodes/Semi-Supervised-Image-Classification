@@ -18,6 +18,7 @@ if __name__ == "__main__":
     split_output_folder_path = r'data\train_test_csv'
     
     
+    
     num_categories=5
     normalize = False
     test_size = 0.1
